@@ -11,7 +11,7 @@ Simple phpBB extension to display the border in the same color as the username i
 3. In the `ext` directory of your phpBB board, create a new directory named `cabot` (if it does not already exist).
 4. Copy the `profilebordercolor` folder to `/ext/cabot/`.
 5. Navigate in the ACP to `Customise -> Manage extensions`.
-6. Look for `First letter as default avatar` under the Disabled Extensions list, and click its `Enable` link.
+6. Look for `Profile Border Color` under the Disabled Extensions list, and click its `Enable` link.
 
 ## Uninstall
 1. Navigate in the ACP to `Customise -> Extension Management -> Extensions`.
