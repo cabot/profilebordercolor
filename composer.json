@@ -1,0 +1,24 @@
+{
+    "name": "cabot/profilebordercolor",
+    "type": "phpbb-extension",
+    "description": "Displays the border in the same color as the pseudo in the mini profile.",
+    "homepage": "https://www.phpbb.com/community/viewtopic.php?t=2643844",
+    "version": "1.0.0",
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "cabot",
+            "homepage": "https://forum.cabotweb.fr/",
+            "role": "SushiMaker"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.7"
+    },
+    "extra": {
+        "display-name": "Profile Border Color",
+        "soft-require": {
+            "phpbb/phpbb": "3.2.0"
+        }
+    }
+}
