@@ -1,6 +1,10 @@
 # Profile Border Color
 Simple phpBB extension to display the border in the same color as the username in the mini profile.
 
+![phpBB 3.2.x Compatible](https://img.shields.io/badge/phpBB-3.2.x%20Compatible%20-blue.svg)
+
+![phpBB 3.3.x Compatible](https://img.shields.io/badge/phpBB-3.3.x%20Compatible%20-blue.svg)
+
 ## Minimum Requirements
 * phpBB 3.2.0
 * PHP 5.4.7
